@@ -1,5 +1,5 @@
 require "yaml"
-require "FileUtils"
+require "fileutils"
 
 
 puts "EventManager initialized."
