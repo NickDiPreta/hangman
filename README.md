@@ -1,5 +1,5 @@
 # hangman
-This is a console version of the classic game of Hangman, written in Ruby! Functionality is provided to load and save games!
+This is a console version of the classic game of Hangman, written in Ruby! Functionality is provided to load and save games in the Repl provided below!
 
 [![Run on Repl.it](https://repl.it/badge/github/NickDiPreta/hangman)](https://repl.it/github/NickDiPreta/hangman)
 
